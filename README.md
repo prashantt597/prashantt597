@@ -33,4 +33,4 @@ Shell, Python, YAML, JSON
 ## 📫 Reach Me
 
 - 🌐 [LinkedIn](https://linkedin.com/in/prashantt597)
-- ✉️ Email: prashantt597@gmail.com
+- ✉️ Email: prashanttakkalaki1@gmail.com
