@@ -13,8 +13,9 @@
 ### ☁️ Cloud & Infra  
 <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9A7&center=true&width=700&lines=EC2+%7C+S3+%7C+RDS+%7C+VPC;IAM+%7C+CloudFormation+%7C+Route+53+%7C+Lambda" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&width=600&lines=EC2;S3;RDS;VPC;IAM;CloudFormation;Route+53;Lambda" />
 </p>
+
 
 
 ### ⚙️ CI/CD & Automation  
