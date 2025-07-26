@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C9A7&center=true&width=440&lines=🚀+AWS+DevOps+Engineer;🔁+CI%2FCD+Automation+Expert;☁️+Cloud+Infra+Enthusiast;🔐+Security+%7C+Monitoring+%7C+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C9A7&center=true&width=500&lines=🚀+AWS+DevOps+Engineer;🔁+CI%2FCD+Automation+Expert;☁️+Cloud+Infra+Enthusiast;🔐+Security+%7C+Monitoring+%7C+Optimization" />
 </p>
 
 ---
